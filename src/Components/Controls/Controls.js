@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import Button from "../Button/Button";
+import Button from "./Button/Button";
 
 import classes from "./Controls.module.css";
 
