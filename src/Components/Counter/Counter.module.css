@@ -1,0 +1,9 @@
+p.counter {
+    padding: 0 0 2rem;
+
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+
+    user-select: none;
+}
